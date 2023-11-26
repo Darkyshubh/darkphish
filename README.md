@@ -144,7 +144,7 @@ $ zphisher
 
 - **Ubuntu**
 - **Debian**
-- **Arch**
+- **Arch*
 - **Manjaro**
 - **Fedora**
 - **Termux**
